@@ -1,3 +1,7 @@
+# Contributor
+
+BulTTaeng (Choi-JaeHyeok-21500749), Dongjun(kdjun97)
+
 # TeachMe_Flutter_Project
 
 Explanation link
@@ -24,7 +28,3 @@ ML(Posnet)
 Google map
 
 Firebase (Login , non-SQL structure design , chatting)
-
-# With
-
-BulTTaeng (Choi-JaeHyeok-21500749)
