@@ -1,6 +1,6 @@
 # Contributor
 
-BulTTaeng (Choi-JaeHyeok-21500749), Dongjun(kdjun97)
+BulTTaeng (BulTTaeng), Dongjun(kdjun97)
 
 # TeachMe_Flutter_Project
 
